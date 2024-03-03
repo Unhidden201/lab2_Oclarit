@@ -1,0 +1,103 @@
+body{
+    font: Roboto;
+    font-size: 16px;
+    
+}
+body {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReXw-afU4Zyi1qmHxhyDK59Sw4PNlKS88Mbt9SDJ9m1bZREHI2Narlro_ii0vZBlT_vtU&usqp=CAU); /* Set background image */
+    
+}
+article {
+    text-align: justify; 
+}
+
+.con{
+    width: 1024px;
+    margin: auto;
+    border-radius: 5px;
+    border-width: 1px solid #bbbbbb;
+    background-color: #dddddd;
+    padding: 10px;
+
+}
+.search {
+    border: black snow;
+    background-color: green; 
+    color: black;
+    padding: 4px 20px;
+    margin: 4px 2px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    border-radius: 10px;
+    display: inline-block;
+    font-size: 16px;
+  }
+  aside {
+    float: right; 
+    width: 25%;
+    margin-right: 0; 
+    margin-left: 1%; 
+    padding: 10px; 
+    background-color: white;
+    border: 1px solid #bbbbbb; 
+    border-radius: 5px; 
+}
+
+nav {
+    width: 100%; 
+    text-align: right;
+    
+    
+    ul {
+   
+        margin: 0;
+        padding: 0;
+        text-align: left; 
+    }
+    
+    li {
+        margin-left: 2px; 
+        text-align: center;
+        display: inline-block;
+       
+       
+        
+    }
+   
+    a {
+        display: block; 
+        float: left; 
+        width: 100px; 
+        margin: 5px;
+        border: 1px solid white; 
+        border-radius: 5px; 
+        background-color: #597aed; 
+        color: white; 
+        text-decoration: none; 
+    }
+}
+form{
+    text-align: right;
+}
+
+footer {
+    width: 1024px;
+    margin: auto;
+    background-color: white;
+    border: 1px solid #bbbbbb; 
+    border-radius: 5px; 
+    padding: 10px;
+    font-size: 0.8em; 
+}
+
+footer .title {
+    font-size: 14px; 
+    font-weight: bold; 
+}
+footer p {
+    text-align: center; 
+    margin: 0; 
+}
+
+
